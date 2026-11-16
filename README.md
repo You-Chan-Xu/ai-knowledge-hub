@@ -1,6 +1,6 @@
 # AI Knowledge Hub
 
-繁體中文 AI 技術百科 × 個人學習筆記 × 教學講義。以 Markdown 管理文章，使用 React + Vite 呈現，並透過 GitHub Actions 部署到 GitHub Pages。
+繁體中文 AI 技術百科 × 個人學習筆記 。以 Markdown 管理文章，使用 React + Vite 呈現，並透過 GitHub Actions 部署到 GitHub Pages。
 
 
 
